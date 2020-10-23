@@ -1,4 +1,5 @@
 ### Pleased to meet you 👋
+- [Link to portfolio site](https://junemaths.github.io/My_Portfolio/)
 
 - 🔭 I’m currently working on ... studies projects
 - 🌱 I’m currently learning ... Applied Mathemtaics
