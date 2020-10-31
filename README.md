@@ -1,5 +1,5 @@
 ### Pleased to meet you 👋
-- [My Portfolio](https://junemaths.github.io/My_Portfolio/)
+[Link to my Portfolio](https://junemaths.github.io/My_Portfolio/)
 
 - 🔭 I’m currently third year Applied Mathematics student of Wrocław University of Science and Technology 
 - 🌱 I’m currently learning Statistics, Python programming, Data Science
