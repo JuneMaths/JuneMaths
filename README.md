@@ -7,5 +7,4 @@
 - 🤔 I’m looking for help with Data Science 
 - 💬 Ask me about anything you wolud like to know
 - 📫 You can contact me via email: a.juliaadamska@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Quote: “Sometimes the questions are complicated and the answers are simple.” ~ Dr. Seuss
+- ⚡ Quotation: “Sometimes the questions are complicated and the answers are simple.” ~ Dr. Seuss
