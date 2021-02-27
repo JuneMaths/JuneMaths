@@ -9,4 +9,3 @@
 - 📫 You can contact me via email: a.juliaadamska@gmail.com
 - ⚡ Quotation: “Sometimes the questions are complicated and the answers are simple.” ~ Dr. Seuss
 
-[Previous portfolio](https://junemaths.github.io/My_Portfolio/)
